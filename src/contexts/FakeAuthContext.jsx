@@ -4,9 +4,9 @@ import PropTypes from "prop-types";
 const AuthContext = createContext();
 
 const FAKE_USER = {
-  name: "Jack",
-  email: "jack@example.com",
-  password: "qwerty",
+  name: "User",
+  email: "user@example.com",
+  password: "user123",
   avatar: "https://i.pravatar.cc/100?u=zz",
 };
 
