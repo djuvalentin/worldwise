@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-14T11:45:18.858Z",
+      "notes": "",
+      "position": {
+        "lat": "38.70265930723801",
+        "lng": "-9.184570312500002"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Vilches",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-14T12:34:33.895Z",
+      "notes": "",
+      "position": {
+        "lat": "38.20365531807151",
+        "lng": "-3.4497070312500004"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Arbaouat",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-09-15T11:38:23.729Z",
+      "notes": "fgg",
+      "position": {
+        "lat": "32.99023555965106",
+        "lng": "0.46142578125000006"
+      },
+      "id": 73930391
+    }
+  ]
+}
