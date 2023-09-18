@@ -59,6 +59,8 @@ function Form() {
     }
 
     fetchReverseGeocoding();
+
+    console.log(lat, lng);
   }, [lat, lng]);
 
   async function handleSubmit(e) {
